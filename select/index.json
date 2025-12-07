@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Shooting Star （Redecorate Version）",
+  "base_artist": "KOTOKO",
+  "createdAt": "2025-12-07T08:24:27.073555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shooting Star -Redecorate ver.-",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/01_Shooting_Star_-Redecorate_ver.-_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shooting Star  (Redecorate Version)",
+      "artist": "Kotoko",
+      "has_synced": false,
+      "path": "select/02_Shooting_Star_(Redecorate_Version)_Kotoko.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shooting Star (Redecorate ver.)",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/03_Shooting_Star_(Redecorate_ver.)_KOTOKO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shooting Star -Redecorate Ver.-",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/pl_01_Shooting_Star_-Redecorate_Ver.-_KOTOKO.txt"
+    }
+  ]
+}
